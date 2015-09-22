@@ -35,7 +35,7 @@ Game-Programming-Patterns-CN
 
 -  [介绍](01-Introduction.md)
 	-  [架构，性能和游戏](01.1-Architecture, Performance, and Games.md)
--  [再探设计模式](02-Design Patterns Revisited)
+-  [再探设计模式](02-Design Patterns Revisited.md)
 	-  [命令模式](02.1-Command.md)
 	-  [享元模式](02.2-Flyweight.md)
 	-  [观察者模式](02.3-Observer.md)
